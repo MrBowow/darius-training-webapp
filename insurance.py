@@ -34,7 +34,7 @@ else:
 
 smoker = st.sidebar.radio("Smoker??",("No","Yes"))
 
-if smoker =='yes':
+if smoker =='Yes':
     is_smoker = 1
 else:
     is_smoker = 0
